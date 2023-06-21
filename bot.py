@@ -15,7 +15,7 @@ intents.message_content = True
 
 bot = commands.Bot(command_prefix='!', intents=intents)
 
-blocked_words = ['fag', 'faggot', 'retard', 'retarded']  # List of blocked words
+blocked_words = ['badword1', 'badword2', 'badword3', 'badword4']  # List of blocked words
 
 @bot.event
 async def on_ready():
