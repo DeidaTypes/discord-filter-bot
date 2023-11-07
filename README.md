@@ -1,4 +1,4 @@
-# Discord Word Filter Bot
+# Discord Safe Space Guardian
 
 The Discord Word Filter Bot is a Python application that allows you to create a bot for your Discord server, which can automatically block or censor specific words or phrases.
 
